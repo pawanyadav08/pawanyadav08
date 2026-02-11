@@ -29,6 +29,9 @@ Currently learning DSA and Machine Learning.
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawanyadav08&show_icons=true&theme=radical)
+
+
 
 <!--
 **pawanyadav08/pawanyadav08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
