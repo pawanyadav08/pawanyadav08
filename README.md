@@ -28,7 +28,7 @@ Currently focused on: **LLM-powered applications · Audio AI · Full-stack TypeS
 Deepfake audio detection using Meta's **Wav2Vec2-Large-XLSR-53** + Logistic Regression classifier. Built for a CyberSecurity Hackathon — live on Hugging Face Spaces, React frontend on Vercel.
 `Python` `FastAPI` `PyTorch` `Wav2Vec2` `Docker`
 
-### 🩺 [MediSense AI](https://github.com/Srv99x/medisense-ai-app)
+### 🩺 [MediSense AI](https://github.com/pawanyadav08/medisense-ai-app)
 AI symptom analyzer powered by **Google Gemini 2.5 Flash**. Returns structured condition cards with probability scores and urgency-level triage — not just raw text. Deployed on Vercel + Render.
 `TypeScript` `React` `FastAPI` `Gemini API` `shadcn/ui`
 
@@ -70,13 +70,13 @@ AI symptom analyzer powered by **Google Gemini 2.5 Flash**. Returns structured c
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Srv99x&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/Srv99x)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pawanyadav08&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/Srv99x)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srv99x&theme=react-dark&hide_border=true&area=true)](https://github.com/Srv99x)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pawanyadav08&theme=react-dark&hide_border=true&area=true)](https://github.com/Srv99x)
 
 </div>
 
@@ -93,6 +93,6 @@ AI symptom analyzer powered by **Google Gemini 2.5 Flash**. Returns structured c
 
 <div align="center">
 
-*Open to internships, collaborations, and hackathons — reach out on [LinkedIn](https://www.linkedin.com/in/srv99x/)*
+*Open to internships, collaborations, and hackathons — reach out on [LinkedIn](https://www.linkedin.com/in/pawanyadav08/)*
 
 </div>
