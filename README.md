@@ -93,6 +93,6 @@ AI symptom analyzer powered by **Google Gemini 2.5 Flash**. Returns structured c
 
 <div align="center">
 
-*Open to internships, collaborations, and hackathons — reach out on [LinkedIn](https://www.linkedin.com/in/pawanyadav08/)*
+*Open to internships, collaborations, and hackathons — reach out on [LinkedIn](https://www.linkedin.com/in/pawan-kumar-yadav-448761367/)*
 
 </div>
