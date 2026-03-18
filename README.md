@@ -6,7 +6,7 @@
 
 Building AI-powered full-stack applications — from deepfake audio detection to intelligent health tools.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-kumar-yadav-448761367/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawankumaryadav08/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pawanydv010@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0003-0058-0295)
 
@@ -93,6 +93,6 @@ AI symptom analyzer powered by **Google Gemini 2.5 Flash**. Returns structured c
 
 <div align="center">
 
-*Open to internships, collaborations, and hackathons — reach out on [LinkedIn](https://www.linkedin.com/in/pawan-kumar-yadav-448761367/)*
+*Open to internships, collaborations, and hackathons — reach out on [LinkedIn](https://www.linkedin.com/in/pawankumaryadav08/)*
 
 </div>
