@@ -16,9 +16,21 @@ Building AI-powered full-stack applications — from deepfake audio detection to
 
 ## About
 
-I'm a CSE student who bridges the gap between AI/ML research and production web applications. My work sits at the intersection of deep learning, RESTful APIs, and modern frontend — I don't just train models, I ship them.
+🚀 **AI Engineer | Full-Stack Developer | Problem Solver**
 
-Currently focused on: **LLM-powered applications · Audio AI · Full-stack TypeScript**
+I'm not your typical CSE student who leaves models in Jupyter notebooks. I obsess over turning cutting-edge AI research into **production-grade applications** that real people use. My sweet spot? Taking complex ML models and wrapping them in blazing-fast APIs and beautiful user interfaces.
+
+I believe great AI is **invisible**—it works seamlessly behind the scenes while users focus on solving their problems. That's why I combine:
+- 🧠 Deep Learning (training, fine-tuning, optimization)
+- ⚡ Backend Engineering (FastAPI, async workers, database design)
+- 🎨 Frontend Excellence (React, real-time sync, responsive design)
+
+**Currently shipping:** 
+- 🤖 LLM-powered applications with structured outputs
+- 🎙️ Audio AI models (deepfake detection, voice processing)
+- 💻 Full-stack TypeScript systems (end-to-end type safety)
+
+**My philosophy:** *If it's not deployed, it's just a science experiment.*
 
 ---
 
