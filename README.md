@@ -1,210 +1,167 @@
-# 🚀 Pawan Kumar Yadav
-> **AI Engineer | Full-Stack Developer | Building Production-Grade AI Systems**
+# Hi there! 👋 I'm **Pawan Kumar Yadav**
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  Transforming raw AI into deployable, user-facing apps    ║
-╚═══════════════════════════════════════════════════════════╝
-```
+**AI Engineer | Full-Stack Developer | Building Production-Grade AI Systems**
 
-**[🔗 LinkedIn](https://www.linkedin.com/in/pawankumaryadav08/)** • **[📧 Email](mailto:pawanydv010@gmail.com)** • **[🎓 ORCID](https://orcid.org/my-orcid?orcid=0009-0003-0058-0295)** • **[💻 GitHub](https://github.com/pawanyadav08)**
+*Transforming raw AI into deployable, user-facing applications that solve real problems*
 
-**Location:** Guwahati, Assam | **Education:** B.Tech CSE
+[LinkedIn](https://www.linkedin.com/in/pawankumaryadav08/) • [Email](mailto:pawanydv010@gmail.com) • [ORCID](https://orcid.org/my-orcid?orcid=0009-0003-0058-0295)
 
 </div>
 
 ---
 
-## 🎯 What I Do
+## 🎯 About Me
 
-I don't just train models—I **ship them**. I bridge the gap between cutting-edge AI research and real-world production systems. From training deepfake detectors to deploying LLM-powered health tools, I handle the entire pipeline: research → development → deployment.
+I'm a **CSE student** passionate about building AI systems that work. I don't just train models—I ship them. My work spans from training deepfake detectors to deploying LLM-powered health assistants. I bridge the gap between cutting-edge research and production-grade applications.
 
-> **Current Obsession:** LLM integration · Audio AI · Full-stack TypeScript architecture
+**What excites me:**
+- 🤖 Building intelligent systems that scale
+- ⚡ Creating clean, efficient APIs
+- 🎨 Designing beautiful user interfaces
+- 🚀 Deploying AI to production
 
----
-
-## 💎 Flagship Projects
-
-### 🎙️ **AI Voice Detector** | Deepfake Audio Detection at Scale
-- Trained on **Meta's Wav2Vec2-Large-XLSR-53** with custom Logistic Regression classifier
-- Built for **CyberSecurity Hackathon** (production winner)
-- **Live Demo:** [Hugging Face Spaces](https://huggingface.co/spaces) | **Frontend:** React on Vercel
-- Processes audio files, returns confidence scores with visual explanations
-- **Tech Stack:** Python · FastAPI · PyTorch · Wav2Vec2 · Docker
-
-**[→ View Repository](https://github.com/Srv99x/voice-detection-ai)**
+**Current Focus:** LLM integration • Audio AI • Full-stack TypeScript
 
 ---
 
-### 🩺 **MediSense AI** | Intelligent Health Symptom Analyzer
-- Powers **Google Gemini 2.5 Flash** API with structured prompt engineering
-- Returns not raw text, but **scored condition cards** with urgency triage levels
-- **Live Demo:** [medisense.vercel.app](https://medisense.vercel.app)
-- Real-time risk assessment UI with smooth micro-interactions
-- **Tech Stack:** TypeScript · React · FastAPI · Gemini API · shadcn/ui · Tailwind
-
-**[→ View Repository](https://github.com/pawanyadav08/medisense-ai-app)**
-
----
-
-## 🛠️ **Tech Toolkit**
-
-<table>
-<tr>
-<td>
+## 💻 Tech Stack
 
 ### **Languages**
-```
-⚙️  Python       ████████████░░
-🦀 TypeScript   ████████░░░░░░
-💛 JavaScript   ████████░░░░░░
-🔵 C++          ██████░░░░░░░░
-```
+<div>
 
-</td>
-<td>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### **AI/ML**
-```
-🔥 PyTorch      ███████████░░░
-🧠 TensorFlow   ██████████░░░░
-🤗 HuggingFace  ██████████░░░░
-🧬 Scikit-Learn ██████░░░░░░░░
-```
+</div>
 
-</td>
-</tr>
-<tr>
-<td>
+### **AI/ML Frameworks**
+<div>
 
-### **Backend**
-```
-⚡ FastAPI      ███████████░░░
-📦 Node.js      ██████████░░░░
-🐳 Docker       █████████░░░░░
-🗄️  PostgreSQL   ████████░░░░░░
-```
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-</td>
-<td>
+</div>
+
+### **Backend & APIs**
+<div>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+</div>
 
 ### **Frontend**
-```
-⚛️  React        ███████████░░░
-🎨 TailwindCSS  ████████████░░
-⚡ Vite         ██████████░░░░
-🎭 shadcn/ui    ██████░░░░░░░░
-```
+<div>
 
-</td>
-</tr>
-</table>
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
----
+</div>
 
-## 🔥 **Skills Matrix**
+### **Tools & Platforms**
+<div>
 
-| **Tier** | **Mastery** | **What I Can Do** |
-|---------|-----------|-----------------|
-| **Expert** | 🟢 Deep Learning | Train & fine-tune models (PyTorch/TensorFlow), deploy on edge devices, optimize inference |
-| **Expert** | 🟢 Full-Stack | API design, database optimization, frontend deployment, DevOps basics |
-| **Advanced** | 🔵 System Design | Microservices architecture, caching strategies, scalable data pipelines |
-| **Intermediate** | 🟡 Cloud Ops | Docker containerization, Vercel/Render deployment, monitoring |
-
----
-
-## 📊 **At a Glance**
-
-<div align="center">
-
-### GitHub Activity
-```
-🔥 Commits    │ ████████████░░░░░  ~250+ this year
-🌟 Projects   │ ████████░░░░░░░░░  10+ shipped
-📚 Learning   │ ██████████░░░░░░░  Never stops
-💯 Dedication │ ███████████████░░  1000% engaged
-```
-
-### Current Focus Areas
-- **Building:** LLM-powered applications with structured outputs
-- **Learning:** System design patterns & production ML ops
-- **Shipping:** Open-source contributions & hackathon entries
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 
 </div>
 
 ---
 
-## 🎓 **2025-2026 Roadmap**
+## 🚀 Featured Projects
 
-- [ ] 🎯 Ship **3 production-grade AI projects** with paying users
-- [ ] 🔗 Contribute to **major ML/DevTools open-source repos**
-- [ ] 🏗️ Master **system design** fundamentals (LeetCode Hard tier)
-- [ ] 💼 Secure **SDE/AI internship** at a top-tier company
-- [ ] 📚 Publish **technical blog posts** on AI deployment patterns
+### 🎙️ AI Voice Detector
+**Deepfake Audio Detection using Meta's Wav2Vec2**
 
----
+Trained a custom ML classifier to detect AI-generated voice. Built for a **CyberSecurity Hackathon** and deployed to production with a React frontend.
 
-## 🧠 **Technical Highlights**
+- **Challenge:** Detect deepfake audio at scale
+- **Solution:** Wav2Vec2 feature extraction + Logistic Regression
+- **Status:** ✅ Live on Hugging Face Spaces | 🏆 Hackathon Winner
 
-### **Inference Optimization**
-- Quantization & pruning for edge deployment
-- Batch processing pipelines for throughput
-- Model serving with FastAPI + Gunicorn
+**Stack:** Python • FastAPI • PyTorch • Wav2Vec2 • Docker • React
 
-### **Data Engineering**
-- ETL pipelines for training data
-- Feature engineering & preprocessing
-- Data versioning with DVC
-
-### **DevOps & Deployment**
-- Containerization with Docker & Docker Compose
-- CI/CD pipelines (GitHub Actions)
-- Serverless deployment (Vercel, Render)
-
-### **Frontend Excellence**
-- Accessible, responsive UI design
-- Real-time updates with WebSockets
-- Performance optimization (Lighthouse 90+)
+[View Repository →](https://github.com/Srv99x/voice-detection-ai)
 
 ---
 
-## 🌐 **Find Me Online**
+### 🩺 MediSense AI
+**LLM-Powered Health Symptom Analyzer**
+
+Built an intelligent health assistant powered by Google Gemini 2.5 Flash. Returns structured condition cards with probability scores and urgency-level triage—not just raw text.
+
+- **Challenge:** Make LLM outputs structured and reliable
+- **Solution:** Prompt engineering + output validation + confidence scoring
+- **Status:** ✅ Live at [medisense.vercel.app](https://medisense.vercel.app)
+
+**Stack:** TypeScript • React • FastAPI • Gemini API • shadcn/ui • TailwindCSS
+
+[View Repository →](https://github.com/pawanyadav08/medisense-ai-app)
+
+---
+
+## 📊 Skills Breakdown
+
+| Category | Skills | Level |
+|----------|--------|-------|
+| **Deep Learning** | PyTorch, TensorFlow, Fine-tuning, Transfer Learning | ⭐⭐⭐⭐⭐ |
+| **Backend Development** | FastAPI, Node.js, PostgreSQL, Docker | ⭐⭐⭐⭐⭐ |
+| **Frontend Development** | React, TypeScript, TailwindCSS, Responsive Design | ⭐⭐⭐⭐☆ |
+| **System Design** | APIs, Microservices, Database Optimization | ⭐⭐⭐⭐☆ |
+| **DevOps** | Docker, GitHub Actions, Vercel, Render | ⭐⭐⭐⭐☆ |
+
+---
+
+## 🎓 What I'm Currently Working On
+
+- 🤖 Building more LLM-powered applications
+- 📚 Learning system design fundamentals
+- 🔗 Contributing to open-source ML projects
+- 💼 Preparing for SDE/AI internships
+
+---
+
+## 📈 2026 Goals
+
+- [ ] 🚀 Ship 2+ production AI projects with real users
+- [ ] 🔗 Contribute meaningfully to major open-source ML repos
+- [ ] 🏗️ Master system design (LeetCode Hard tier)
+- [ ] 💼 Secure internship at a top-tier tech company
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in:
+- **Collaborating** on exciting AI/ML projects
+- **Building together** at hackathons
+- **Discussing** technical challenges and solutions
+- **Sharing knowledge** and learning from others
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| **LinkedIn** | [pawankumaryadav08](https://www.linkedin.com/in/pawankumaryadav08/) |
-| **GitHub** | [pawanyadav08](https://github.com/pawanyadav08) |
-| **Email** | pawanydv010@gmail.com |
-| **ORCID** | [0009-0003-0058-0295](https://orcid.org/0009-0003-0058-0295) |
+**[📧 Send me an email](mailto:pawanydv010@gmail.com)** • **[Connect on LinkedIn](https://www.linkedin.com/in/pawankumaryadav08/)** • **[Follow on GitHub](https://github.com/pawanyadav08)**
 
 </div>
 
 ---
 
-## 💬 **Let's Collaborate**
-
-I'm always open to:
-- 🚀 **Exciting projects** with real impact
-- 🤝 **Hackathon teams** (won CyberSecurity one—let's make it two)
-- 📖 **Technical discussions** on AI/ML and system design
-- 🎓 **Mentoring** junior developers on AI deployment
-
-**→ Reach out on [LinkedIn](https://www.linkedin.com/in/pawankumaryadav08/) or [send an email](mailto:pawanydv010@gmail.com)**
-
----
-
 <div align="center">
 
-```
-╔════════════════════════════════════════════════╗
-║  Building the future, one model at a time  🚀  ║
-╚════════════════════════════════════════════════╝
-```
+![Visitors](https://komarev.com/ghpvc/?username=pawanyadav08&color=blue&style=flat)
 
-**Last updated:** 2026 | **Status:** Always Learning 📚
+*Building AI that matters, one deployment at a time.* 🚀
 
 </div>
