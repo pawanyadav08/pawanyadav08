@@ -1,114 +1,221 @@
 <div align="center">
 
-# Pawan Kumar Yadav
+<!-- Capsule Render Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Pawan%20Kumar%20Yadav&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=ML%20%2F%20AI%20Engineer%20%7C%20B.Tech%20CSE%20Student&descAlignY=60&descColor=a9b1d6" />
 
-**B.Tech CSE · Guwahati, Assam**
+<!-- Typing SVG -->
+<a href="https://github.com/pawankumaryadav08">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=ML+%2F+AI+Engineer+%F0%9F%A4%96;B.Tech+CSE+Student+%F0%9F%8E%93;Backend+Developer+%7C+DSA+Enthusiast;Problem+Solver+%7C+Open+Source+Lover;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-Building AI-powered full-stack applications — from deepfake audio detection to real-time data processing systems.
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawankumaryadav08/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pawanydv010@gmail.com)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0003-0058-0295)
-
-</div>
-
----
-
-## About
-
-🚀 **AI Engineer | Full-Stack Developer | Problem Solver**
-
-I'm not your typical CSE student who leaves models in Jupyter notebooks. I obsess over turning cutting-edge AI research into **production-grade applications** that real people use. My sweet spot? Taking complex ML models and wrapping them in blazing-fast APIs and beautiful user interfaces.
-
-I believe great AI is **invisible**—it works seamlessly behind the scenes while users focus on solving their problems. That's why I combine:
-- 🧠 Deep Learning (training, fine-tuning, optimization)
-- ⚡ Backend Engineering (FastAPI, async workers, database design)
-- 🎨 Frontend Excellence (React, real-time sync, responsive design)
-
-**Currently shipping:** 
-- 🤖 LLM-powered applications with structured outputs
-- 🎙️ Audio AI models (deepfake detection, voice processing)
-- 💻 Full-stack TypeScript systems (end-to-end type safety)
-
-**My philosophy:** *If it's not deployed, it's just a science experiment.*
-
----
-
-## Featured Projects
-
-### 🎙️ [AI Voice Detector](https://github.com/Srv99x/voice-detection-ai)
-Deepfake audio detection using Meta's **Wav2Vec2-Large-XLSR-53** + Logistic Regression classifier. Built for a CyberSecurity Hackathon — live on Hugging Face Spaces, React frontend on Vercel.
-`Python` `FastAPI` `PyTorch` `Wav2Vec2` `Docker`
-
-### 📊 [Real-Time Analytics Dashboard](https://github.com/pawanyadav08/analytics-dashboard)
-High-performance data visualization platform powered by **PostgreSQL** and **Node.js**. Processes streaming data with WebSocket support and delivers interactive charts — deployed with real-time sync across multiple users.
-`TypeScript` `React` `Node.js` `PostgreSQL` `WebSocket`
-
----
-
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Backend & AI**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-DF0000?style=flat&logo=n8n&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pawanyadav08&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=10B981)](https://github.com/Srv99x)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pawanyadav08&theme=react-dark&hide_border=true&area=true&color=10B981)](https://github.com/Srv99x)
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=pawankumaryadav08&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/pawankumaryadav08?label=Followers&style=flat-square&color=70a5fd" alt="Followers" />
 
 </div>
 
 ---
 
-## 2026 Goals
+## 🧑‍💻 About Me
 
-- Ship one more production-grade original AI project
-- Contribute to an open source ML or developer tools repo
-- Master system design fundamentals for SDE interviews
-- Secure a software engineering / AI internship
+```python
+class PawanKumarYadav:
+    def __init__(self):
+        self.name       = "Pawan Kumar Yadav"
+        self.role       = "ML / AI Engineer & B.Tech CSE Student"
+        self.location   = "Guwahati, Assam, India 🇮🇳"
+        self.timezone   = "UTC +05:30"
+        self.email      = "pawanydv010@gmail.com"
+        self.linkedin   = "in/pawankumaryadav08"
+        self.orcid      = "0009-0003-0058-0295"
+
+    def currently(self):
+        return {
+            "learning"  : ["Deep Learning", "LLMs", "MLOps", "System Design"],
+            "building"  : ["AI-powered backends", "n8n automations", "FastAPI services"],
+            "exploring" : ["HuggingFace models", "RAG pipelines", "Vector DBs"],
+        }
+
+    def fun_fact(self):
+        return "I solve DSA problems in Java by day, train models in Python by night 🌙"
+```
+
+<br/>
+
+<img align="right" alt="AI coding gif" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+- 🎓 **B.Tech CSE Student** passionate about problem solving & backend dev
+- 🤖 Exploring **AI/ML** — LLMs, PyTorch, TensorFlow, HuggingFace
+- ☕ Skilled in **Java (DSA)**, Python, and **FastAPI**
+- 🔧 Building intelligent backends & automation workflows with **n8n**
+- 🌍 Based in **Guwahati, Assam, India**
+- 📬 Reach me: **pawanydv010@gmail.com**
+- 🔗 ORCID: [0009-0003-0058-0295](https://orcid.org/0009-0003-0058-0295)
+
+<br clear="right"/>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pawankumaryadav08)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawanydv010@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0058-0295)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pawankumaryadav08)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</div>
+
+### 🤖 AI / ML & Data Science
+<div align="center">
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+### 🌐 Frontend
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+</div>
+
+### 🔧 Backend & APIs
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+### 🗄️ Databases
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+### ⚙️ DevOps, Tools & Cloud
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pawankumaryadav08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pawankumaryadav08&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawankumaryadav08&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=pawankumaryadav08&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pawankumaryadav08&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🧠 Currently Learning & Exploring
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-0A66C2?style=for-the-badge&logo=blueprint&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DBs-00B4D8?style=for-the-badge&logo=pinecone&logoColor=white)
+
+</div>
+
+---
+
+## 💡 A Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Open to internships, collaborations, and hackathons — reach out on [LinkedIn](https://www.linkedin.com/in/pawankumaryadav08/)*
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:0d1117&height=120&section=footer" />
+
+<sub>⭐ Star some repositories if you find them interesting — it motivates me to keep building! ⭐</sub>
 
 </div>
