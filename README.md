@@ -4,16 +4,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Pawan%20Kumar%20Yadav&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=ML%20%2F%20AI%20Engineer%20%7C%20B.Tech%20CSE%20Student&descAlignY=60&descColor=a9b1d6" />
 
 <!-- Typing SVG -->
-<a href="https://github.com/pawankumaryadav08">
+<a href="https://github.com/pawanyadav08">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=ML+%2F+AI+Engineer+%F0%9F%A4%96;B.Tech+CSE+Student+%F0%9F%8E%93;Backend+Developer+%7C+DSA+Enthusiast;Problem+Solver+%7C+Open+Source+Lover;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=pawankumaryadav08&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=pawanyadav08&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/pawankumaryadav08?label=Followers&style=flat-square&color=70a5fd" alt="Followers" />
+<img src="https://img.shields.io/github/followers/pawanyadav08?label=Followers&style=flat-square&color=70a5fd" alt="Followers" />
 
 </div>
 
@@ -29,7 +29,7 @@ class PawanKumarYadav:
         self.location   = "Guwahati, Assam, India 🇮🇳"
         self.timezone   = "UTC +05:30"
         self.email      = "pawanydv010@gmail.com"
-        self.linkedin   = "in/pawankumaryadav08"
+        self.linkedin   = "in/pawanyadav08"
         self.orcid      = "0009-0003-0058-0295"
 
     def currently(self):
@@ -63,10 +63,10 @@ class PawanKumarYadav:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pawankumaryadav08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pawanyadav08)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawanydv010@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0058-0295)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pawankumaryadav08)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pawanyadav08)
 
 </div>
 
@@ -155,12 +155,12 @@ class PawanKumarYadav:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pawankumaryadav08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pawankumaryadav08&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pawanyadav08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanyadav08&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawankumaryadav08&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanyadav08&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
 
 </div>
 
@@ -170,7 +170,7 @@ class PawanKumarYadav:
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=pawankumaryadav08&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=pawanyadav08&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
@@ -180,7 +180,7 @@ class PawanKumarYadav:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pawankumaryadav08&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pawanyadav08&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
