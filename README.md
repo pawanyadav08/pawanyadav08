@@ -155,12 +155,12 @@ class PawanKumarYadav:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pawanyadav08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanyadav08&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pawanyadav08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=400" />
+<img width="49%" src="https://streak-stats.demolab.com?user=pawanyadav08&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanyadav08&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanyadav08&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=400" />
 
 </div>
 
@@ -170,7 +170,7 @@ class PawanKumarYadav:
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=pawanyadav08&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=pawanyadav08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 
 </div>
 
