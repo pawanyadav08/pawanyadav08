@@ -27,9 +27,8 @@ class PawanKumarYadav:
         self.name       = "Pawan Kumar Yadav"
         self.role       = "ML / AI Engineer & B.Tech CSE Student"
         self.location   = "Guwahati, Assam, India 🇮🇳"
-        self.timezone   = "UTC +05:30"
         self.email      = "pawanydv010@gmail.com"
-        self.linkedin   = "in/pawanyadav08"
+        self.linkedin   = "in/pawankumaryadav08/"
         self.orcid      = "0009-0003-0058-0295"
 
     def currently(self):
@@ -63,7 +62,7 @@ class PawanKumarYadav:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pawanyadav08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pawankumaryadav08/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawanydv010@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0058-0295)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pawanyadav08)
