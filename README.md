@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Capsule Render Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Pawan%20Kumar%20Yadav&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=ML%20%2F%20AI%20Engineer%20%7C%20B.Tech%20CSE%20Student&descAlignY=60&descColor=a9b1d6" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Pawan%20Kumar%20Yadav&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=Java%20Spring%20Boot%20Full%20Stack%20Developer%20%7C%20B.Tech%20CSE%20Student&descAlignY=60&descColor=a9b1d6" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/pawanyadav08">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=ML+%2F+AI+Engineer+%F0%9F%A4%96;B.Tech+CSE+Student+%F0%9F%8E%93;Backend+Developer+%7C+DSA+Enthusiast;Problem+Solver+%7C+Open+Source+Lover;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Java+Spring+Boot+Full+Stack+Developer+%E2%98%95;B.Tech+CSE+Student+%F0%9F%8E%93;DSA+Enthusiast+%7C+Problem+Solver+%F0%9F%A7%A0;Backend+Architect+%7C+REST+API+Expert;Exploring+AI%2FML+%F0%9F%A4%96+%7C+Open+Source+Lover" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,35 +21,40 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class PawanKumarYadav:
-    def __init__(self):
-        self.name       = "Pawan Kumar Yadav"
-        self.role       = "ML / AI Engineer & B.Tech CSE Student"
-        self.location   = "Guwahati, Assam, India 🇮🇳"
-        self.email      = "pawanydv010@gmail.com"
-        self.linkedin   = "in/pawankumaryadav08/"
-        self.orcid      = "0009-0003-0058-0295"
+```java
+public class PawanKumarYadav {
 
-    def currently(self):
-        return {
-            "learning"  : ["Deep Learning", "LLMs", "MLOps", "System Design"],
-            "building"  : ["AI-powered backends", "n8n automations", "FastAPI services"],
-            "exploring" : ["HuggingFace models", "RAG pipelines", "Vector DBs"],
-        }
+    String name     = "Pawan Kumar Yadav";
+    String role     = "Java Spring Boot Full Stack Developer & B.Tech CSE Student";
+    String location = "Guwahati, Assam, India 🇮🇳";
+    String email    = "pawanydv010@gmail.com";
+    String linkedin = "in/pawankumaryadav08/";
+    String orcid    = "0009-0003-0058-0295";
 
-    def fun_fact(self):
-        return "I solve DSA problems in Java by day, train models in Python by night 🌙"
+    Map<String, List<String>> currently() {
+        return Map.of(
+            "core",      List.of("Java", "Spring Boot", "Full Stack Dev", "DSA"),
+            "building",  List.of("REST APIs", "Microservices", "Full Stack Apps"),
+            "learning",  List.of("AI/ML", "LLMs", "RAG Pipelines", "MLOps")
+        );
+    }
+
+    String funFact() {
+        return "I architect backends with Spring Boot by day, crack DSA in Java by night 🌙";
+    }
+}
 ```
 
 <br/>
 
-<img align="right" alt="AI coding gif" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" alt="coding gif" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-- 🎓 **B.Tech CSE Student** passionate about problem solving & backend dev
-- 🤖 Exploring **AI/ML** — LLMs, PyTorch, TensorFlow, HuggingFace
-- ☕ Skilled in **Java (DSA)**, Python, and **FastAPI**
-- 🔧 Building intelligent backends & automation workflows with **n8n**
+- 🎓 **B.Tech CSE Student** passionate about backend architecture & full stack development
+- ☕ **Java Spring Boot** developer — REST APIs, Microservices, JPA/Hibernate
+- 🧠 Strong in **DSA** — solving problems in Java daily
+- 🌐 Full Stack experience with **React, Next.js & Tailwind CSS**
+- 🤖 **Learning AI/ML** — exploring LLMs, PyTorch, HuggingFace & RAG pipelines
+- 🗄️ Working with **PostgreSQL, MongoDB, Redis** & modern databases
 - 🌍 Based in **Guwahati, Assam, India**
 - 📬 Reach me: **pawanydv010@gmail.com**
 - 🔗 ORCID: [0009-0003-0058-0295](https://orcid.org/0009-0003-0058-0295)
@@ -88,7 +93,21 @@ class PawanKumarYadav:
 
 </div>
 
-### 🤖 AI / ML & Data Science
+### ☕ Java Ecosystem & Full Stack (Primary)
+<div align="center">
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA_in_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+### 🤖 AI / ML & Data Science (Learning)
 <div align="center">
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
